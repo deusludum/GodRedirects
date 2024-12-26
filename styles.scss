@@ -1,0 +1,15 @@
+---
+---
+
+@use "../_sass/normalize";
+@use "../_sass/code";
+@use "../_sass/style";
+@use "../_sass/night-mode";
+
+// Set the font-family globally
+body {
+  font-family: 'Noto Serif Grantha', serif;
+}
+html {
+  scroll-behavior: smooth;
+}
